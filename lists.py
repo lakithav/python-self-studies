@@ -27,7 +27,7 @@ print(x)
 z.clear()
 print(z)
 
-'''
+
 a  = [11,10,5,8,99]
 print(a)
 
@@ -36,3 +36,8 @@ print(a)
 
 a.sort(reverse=True)
 print(a)
+
+'''
+
+z.extend(["Python", "Lists"])
+print(z)
